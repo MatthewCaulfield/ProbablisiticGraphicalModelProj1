@@ -1,0 +1,20 @@
+Author: Matthew Caulfield
+10/9/2020
+The following is an implemntation of both the max-product
+and sum-product belief propogation for project 1 of
+Probabilistic Graphical Models. 
+
+The project is written in python and contains three python files. 
+	BayesianNode.py
+	Main.py
+	test.py
+
+BayesianNode.py is a bayesian node class that implements all the 
+functions needed for both max-product and sum-product belief propogation
+
+test.py contains a bayesian network that was covered in the lecture notes
+to test the implementation of both my max-product and sum-product algorithms. 
+
+Main.py contains the bayesian network for project 1. 
+Including the initiation of each node and the belief propogation algorithm 
+for both max-product and sum-product
